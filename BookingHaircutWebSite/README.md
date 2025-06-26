@@ -17,17 +17,34 @@ A modern web platform to easily book your next haircut appointment.
 
 ## 🛠️ Technologies Used
 
-- Scala
-- HTML & CSS
-- Cypress (testing)
-- SBT
-- Docker/Podman
+- **Backend**: Scala (Play Framework), SBT
+- **Frontend**: React, Vite, TypeScript
+- **Tests**: Cypress
+- **Containerization**: Docker/Podman
+
+---
+
+## 📁 Project Structure
+
+- `backend/` : Play Framework REST API (Scala)
+- `frontend/` : React + Vite + TypeScript (UI)
 
 ---
 
 ## ⚙️ Installation & Launch
 
-*Coming soon: this section will be completed shortly.*
+### Backend (API)
+```sh
+cd backend
+sbt run
+```
+
+### Frontend (UI)
+```sh
+cd frontend
+npm install
+npm run dev
+```
 
 ---
 
