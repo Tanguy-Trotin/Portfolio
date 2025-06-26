@@ -2,6 +2,12 @@
 
 ---
 
+Welcome to my portfolio dedicated to creative and practical Command Line Interface (CLI) project ideas!
+
+This document showcases several original and useful concepts, perfect for exploring different languages and technologies while building handy tools.
+
+---
+
 ## 🌟 My Projects
 
 - 💇‍♂️ **Booking Haircut Website**
@@ -41,12 +47,6 @@
 - 📜 **Certifications:**
   - PEGA
   - Cisco Network
-
----
-
-Welcome to my portfolio dedicated to creative and practical Command Line Interface (CLI) project ideas!
-
-This document showcases several original and useful concepts, perfect for exploring different languages and technologies while building handy tools.
 
 ---
 
@@ -90,4 +90,6 @@ This document showcases several original and useful concepts, perfect for explor
 
 For any questions or suggestions, feel free to reach out!
 
-## Lazygit enjoyer &nbsp;|&nbsp; 💻 Coding on VSCode &nbsp;|&nbsp; 🐧 Linux/Mac User
+- 🚀 Lazygit enjoyer  
+- 💻 Coding on VSCode  
+- 🐧 Linux/Mac User
