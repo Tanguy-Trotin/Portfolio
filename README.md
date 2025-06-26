@@ -90,4 +90,4 @@ This document showcases several original and useful concepts, perfect for explor
 
 For any questions or suggestions, feel free to reach out!
 
-# Portfolio - Project In progress
+## Lazygit enjoyer &nbsp;|&nbsp; 💻 Coding on VSCode &nbsp;|&nbsp; 🐧 Linux/Mac User
